@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84698514101",
+    "firebase_url": "https://niraden-eats.firebaseio.com",
+    "project_id": "niraden-eats",
+    "storage_bucket": "niraden-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84698514101:android:0899d821a5cf14302bf4fc",
+        "android_client_info": {
+          "package_name": "com.example.niradeneats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84698514101-u9g2cnsd4jfgmde89vdh2a2r4c1i1ouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5oiYjkpYWfvQ6Vp18TZF9QbCuIoErW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84698514101-u9g2cnsd4jfgmde89vdh2a2r4c1i1ouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
