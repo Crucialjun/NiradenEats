@@ -15,4 +15,5 @@
     <color name="primaryTextColor">#ffffff</color>
 
     <color name="secondaryTextColor">#000000</color>
+    <color name="errorColor">#B00020</color>
 </resources>
